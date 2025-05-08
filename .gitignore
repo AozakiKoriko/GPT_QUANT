@@ -4,3 +4,4 @@ apikey.txt
 token.json
 .env
 reset_to_remote.sh
+push.sh
